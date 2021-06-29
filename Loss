@@ -1,269 +1,285 @@
 #EXTM3U
-#EXTINF:-1 ,group-title:"LOKAL",Antara TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LOKAL",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"LOKAL",Antara TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/32586
-#EXTINF:-1 ,group-title:"LOKAL",ANTV
+#EXTINF:-1 group-title:"LOKAL",ANTV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/31
-#EXTINF:-1 ,group-title:"LOKAL",Bali TV
+#EXTINF:-1 group-title:"LOKAL",Bali TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/889
-#EXTINF:-1 ,group-title:"LOKAL",DAAI TV
+#EXTINF:-1 group-title:"LOKAL",DAAI TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/21
-#EXTINF:-1 ,group-title:"LOKAL",Dunia Lain
+#EXTINF:-1 group-title:"LOKAL",Dunia Lain
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/910
-#EXTINF:-1 ,group-title:"LOKAL",Hope Channel
+#EXTINF:-1 group-title:"LOKAL",Hope Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/30183
-#EXTINF:-1 ,group-title:"LOKAL",Indosiar
+#EXTINF:-1 group-title:"LOKAL",Indosiar
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1845
-#EXTINF:-1 ,group-title:"LOKAL",Jak TV
+#EXTINF:-1 group-title:"LOKAL",Jak TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1210
-#EXTINF:-1 ,group-title:"LOKAL",JTV
+#EXTINF:-1 group-title:"LOKAL",JTV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/135
-#EXTINF:-1 ,group-title:"LOKAL",Life
+#EXTINF:-1 group-title:"LOKAL",Life
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1772
-#EXTINF:-1 ,group-title:"LOKAL",NET TV
+#EXTINF:-1 group-title:"LOKAL",NET TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/24
-#EXTINF:-1 ,group-title:"LOKAL",NET TV FHD
+#EXTINF:-1 group-title:"LOKAL",NET TV FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/78
-#EXTINF:-1 ,group-title:"LOKAL",Rajawali TV
+#EXTINF:-1 group-title:"LOKAL",Rajawali TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37
-#EXTINF:-1 ,group-title:"LOKAL",SCTV
+#EXTINF:-1 group-title:"LOKAL",SCTV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/32
-#EXTINF:-1 ,group-title:"LOKAL",SCTV HD
+#EXTINF:-1 group-title:"LOKAL",SCTV HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/931
-#EXTINF:-1 ,group-title:"LOKAL",Trans 7
+#EXTINF:-1 group-title:"LOKAL",Trans 7
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/35
-#EXTINF:-1 ,group-title:"LOKAL",Trans 7 FHD
+#EXTINF:-1 group-title:"LOKAL",Trans 7 FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/930
-#EXTINF:-1 ,group-title:"LOKAL",Trans TV
+#EXTINF:-1 group-title:"LOKAL",Trans TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/34
-#EXTINF:-1 ,group-title:"LOKAL",Trans TV FHD
+#EXTINF:-1 group-title:"LOKAL",Trans TV FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/929
-#EXTINF:-1 ,group-title:"LOKAL",U Channel
+#EXTINF:-1 group-title:"LOKAL",U Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1208
-#EXTINF:-1 ,group-title:"NEWS",Kontes Nyanyi
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="NEWS",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"NEWS",Kontes Nyanyi
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36958
-#EXTINF:-1 ,group-title:"NEWS",Aljazeera EN
+#EXTINF:-1 group-title:"NEWS",Aljazeera EN
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/89
-#EXTINF:-1 ,group-title:"NEWS",BBC World News HD
+#EXTINF:-1 group-title:"NEWS",BBC World News HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/789
-#EXTINF:-1 ,group-title:"NEWS",Berita Satu News
+#EXTINF:-1 group-title:"NEWS",Berita Satu News
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/136
-#EXTINF:-1 ,group-title:"NEWS",Bloomberg
+#EXTINF:-1 group-title:"NEWS",Bloomberg
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/788
-#EXTINF:-1 ,group-title:"NEWS",Bloomberg TV Asia
+#EXTINF:-1 group-title:"NEWS",Bloomberg TV Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/137
-#EXTINF:-1 ,group-title:"NEWS",CGTN News
+#EXTINF:-1 group-title:"NEWS",CGTN News
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/15070
-#EXTINF:-1 ,group-title:"NEWS",Channel News Asia
+#EXTINF:-1 group-title:"NEWS",Channel News Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1191
-#EXTINF:-1 ,group-title:"NEWS",CNBC Indonesia
+#EXTINF:-1 group-title:"NEWS",CNBC Indonesia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1512
-#EXTINF:-1 ,group-title:"NEWS",CNN Indonesia
+#EXTINF:-1 group-title:"NEWS",CNN Indonesia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/44
-#EXTINF:-1 ,group-title:"NEWS",CNN Int
+#EXTINF:-1 group-title:"NEWS",CNN Int
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1200
-#EXTINF:-1 ,group-title:"NEWS",DW TV Asia
+#EXTINF:-1 group-title:"NEWS",DW TV Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/205
-#EXTINF:-1 ,group-title:"NEWS",France 24
+#EXTINF:-1 group-title:"NEWS",France 24
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/787
-#EXTINF:-1 ,group-title:"NEWS",Kompas TV
+#EXTINF:-1 group-title:"NEWS",Kompas TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/30
-#EXTINF:-1 ,group-title:"NEWS",Metro TV
+#EXTINF:-1 group-title:"NEWS",Metro TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/52
-#EXTINF:-1 ,group-title:"NEWS",Metro TV HD
+#EXTINF:-1 group-title:"NEWS",Metro TV HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1697
-#EXTINF:-1 ,group-title:"NEWS",Russia Today
+#EXTINF:-1 group-title:"NEWS",Russia Today
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36765
-#EXTINF:-1 ,group-title:"NEWS",TV ONE
+#EXTINF:-1 group-title:"NEWS",TV ONE
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29
-#EXTINF:-1 ,group-title:"NEWS",TVRI
+#EXTINF:-1 group-title:"NEWS",TVRI
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36
-#EXTINF:-1 ,group-title:"NEWS",ATV
+#EXTINF:-1 group-title:"NEWS",ATV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29899
-#EXTINF:-1 ,group-title:"ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="ENTERTAINMENT",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"ENTERTAINMENT",AXN
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/9
-#EXTINF:-1 ,group-title:"ENTERTAINMENT",Bioskop Indonesia
+#EXTINF:-1 group-title:"ENTERTAINMENT",Bioskop Indonesia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/908
-#EXTINF:-1 ,group-title:"ENTERTAINMENT",Blue Ant Extreme HD
+#EXTINF:-1 group-title:"ENTERTAINMENT",Blue Ant Extreme HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/811
-#EXTINF:-1 ,group-title:"ENTERTAINMENT",CCM
+#EXTINF:-1 group-title:"ENTERTAINMENT",CCM
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/2118
-#EXTINF:-1 ,group-title:"ENTERTAINMENT",Celestial Movies
+#EXTINF:-1 group-title:"ENTERTAINMENT",Celestial Movies
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/5
-#EXTINF:-1 ,group-title:"ENTERTAINMENT",Cinema World
+#EXTINF:-1 group-title:"ENTERTAINMENT",Cinema World
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1194
-#EXTINF:-1 ,group-title:"MOVIE",Cinemax FHD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="MOVIE",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"MOVIE",Cinemax FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/30185
-#EXTINF:-1 ,group-title:"MOVIE",Cinemax ID
+#EXTINF:-1 group-title:"MOVIE",Cinemax ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/2156
-#EXTINF:-1 ,group-title:"MOVIE",Cinemax SD
+#EXTINF:-1 group-title:"MOVIE",Cinemax SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26599
-#EXTINF:-1 ,group-title:"MOVIE",FLIK HD
+#EXTINF:-1 group-title:"MOVIE",FLIK HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29592
-#EXTINF:-1 ,group-title:"MOVIE",FOX Action Movies FHD
+#EXTINF:-1 group-title:"MOVIE",FOX Action Movies FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1478
-#EXTINF:-1 ,group-title:"MOVIE",FOX Action Movies HD
+#EXTINF:-1 group-title:"MOVIE",FOX Action Movies HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/99
-#EXTINF:-1 ,group-title:"MOVIE",FOX Crime HD
+#EXTINF:-1 group-title:"MOVIE",FOX Crime HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/763
-#EXTINF:-1 ,group-title:"MOVIE",FOX Family Movies ID
+#EXTINF:-1 group-title:"MOVIE",FOX Family Movies ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/14994
-#EXTINF:-1 ,group-title:"MOVIE",FOX HD
+#EXTINF:-1 group-title:"MOVIE",FOX HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/95
-#EXTINF:-1 ,group-title:"MOVIE",FOX Life HD
+#EXTINF:-1 group-title:"MOVIE",FOX Life HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/94
-#EXTINF:-1 ,group-title:"MOVIE",FOX Movies HD
+#EXTINF:-1 group-title:"MOVIE",FOX Movies HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/98
-#EXTINF:-1 ,group-title:"MOVIE",Galaxy Premium SD
+#EXTINF:-1 group-title:"MOVIE",Galaxy Premium SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29603
-#EXTINF:-1 ,group-title:"MOVIE",Galaxy SD
+#EXTINF:-1 group-title:"MOVIE",Galaxy SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29604
-#EXTINF:-1 ,group-title:"MOVIE",HBO Family FHD
+#EXTINF:-1 group-title:"MOVIE",HBO Family FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/30184
-#EXTINF:-1 ,group-title:"MOVIE",HBO Family HD
+#EXTINF:-1 group-title:"MOVIE",HBO Family HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/592
-#EXTINF:-1 ,group-title:"MOVIE",HBO Family SD
+#EXTINF:-1 group-title:"MOVIE",HBO Family SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26598
-#EXTINF:-1 ,group-title:"MOVIE",HBO FHD
+#EXTINF:-1 group-title:"MOVIE",HBO FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1496
-#EXTINF:-1 ,group-title:"MOVIE",HBO HD
+#EXTINF:-1 group-title:"MOVIE",HBO HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/210
-#EXTINF:-1 ,group-title:"MOVIE",HBO Hits FHD
+#EXTINF:-1 group-title:"MOVIE",HBO Hits FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/11492
-#EXTINF:-1 ,group-title:"MOVIE",HBO Hits HD
+#EXTINF:-1 group-title:"MOVIE",HBO Hits HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/591
-#EXTINF:-1 ,group-title:"MOVIE",HBO Hits SD
+#EXTINF:-1 group-title:"MOVIE",HBO Hits SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26596
-#EXTINF:-1 ,group-title:"MOVIE",HBO SD
+#EXTINF:-1 group-title:"MOVIE",HBO SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26595
-#EXTINF:-1 ,group-title:"MOVIE",HBO Signature FHD
+#EXTINF:-1 group-title:"MOVIE",HBO Signature FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1498
-#EXTINF:-1 ,group-title:"MOVIE",HBO Signature HD
+#EXTINF:-1 group-title:"MOVIE",HBO Signature HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/873
-#EXTINF:-1 ,group-title:"MOVIE",HBO Signature SD
+#EXTINF:-1 group-title:"MOVIE",HBO Signature SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26597
-#EXTINF:-1 ,group-title:"MOVIE",HITS HD
+#EXTINF:-1 group-title:"MOVIE",HITS HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1195
-#EXTINF:-1 ,group-title:"MOVIE",Hits Movie SD
+#EXTINF:-1 group-title:"MOVIE",Hits Movie SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/957
-#EXTINF:-1 ,group-title:"MOVIE",IMC SD
+#EXTINF:-1 group-title:"MOVIE",IMC SD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/35484
-#EXTINF:-1 ,group-title:"MOVIE",IN: & Picture
+#EXTINF:-1 group-title:"MOVIE",IN: & Picture
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/31875
-#EXTINF:-1 ,group-title:"MOVIE",IN: &TV HD
+#EXTINF:-1 group-title:"MOVIE",IN: &TV HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/31876
-#EXTINF:-1 ,group-title:"MOVIE",KIX HD
+#EXTINF:-1 group-title:"MOVIE",KIX HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/8
-#EXTINF:-1 ,group-title:"MOVIE",LifeTime HD
+#EXTINF:-1 group-title:"MOVIE",LifeTime HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/866
-#EXTINF:-1 ,group-title:"MOVIE",Red By HBO HD
+#EXTINF:-1 group-title:"MOVIE",Red By HBO HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/4832
-#EXTINF:-1 ,group-title:"MOVIE",Star Chinese Movies HD
+#EXTINF:-1 group-title:"MOVIE",Star Chinese Movies HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/780
-#EXTINF:-1 ,group-title:"MOVIE",Star Chinese Movies Legend
+#EXTINF:-1 group-title:"MOVIE",Star Chinese Movies Legend
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1859
-#EXTINF:-1 ,group-title:"MOVIE",Star World
+#EXTINF:-1 group-title:"MOVIE",Star World
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/381
-#EXTINF:-1 ,group-title:"MOVIE",Thrill
+#EXTINF:-1 group-title:"MOVIE",Thrill
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/4
-#EXTINF:-1 ,group-title:"MOVIE",Warner TV ID HD
+#EXTINF:-1 group-title:"MOVIE",Warner TV ID HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1533
-#EXTINF:-1 ,group-title:"MOVIE",Zee Bioskop
+#EXTINF:-1 group-title:"MOVIE",Zee Bioskop
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/7
-#EXTINF:-1 ,group-title:"knowledge",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="knowledge",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"knowledge",Animal Planet HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/358
-#EXTINF:-1 ,group-title:"knowledge",BBC Earth
+#EXTINF:-1 group-title:"knowledge",BBC Earth
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/385
-#EXTINF:-1 zgroup-title:"knowledge",Crime Investigation
+#EXTINF:-1 group-title:"knowledge",Crime Investigation
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/332
-#EXTINF:-1 ,group-title:"knowledge",Da Vinci Learning
+#EXTINF:-1 group-title:"knowledge",Da Vinci Learning
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36729
-#EXTINF:-1 zgroup-title:"knowledge",Discovery Asia
+#EXTINF:-1 group-title:"knowledge",Discovery Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/779
-#EXTINF:-1 ,group-title:"knowledge",Discovery Channel HD
+#EXTINF:-1 group-title:"knowledge",Discovery Channel HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/165
-#EXTINF:-1 ,group-title:"knowledge",Discovery Science HD
+#EXTINF:-1 group-title:"knowledge",Discovery Science HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/408
-#EXTINF:-1 ,group-title:"knowledge",Discovery Shed
+#EXTINF:-1 group-title:"knowledge",Discovery Shed
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/333
-#EXTINF:-1 ,group-title:"knowledge",Discovery Turbo
+#EXTINF:-1 group-title:"knowledge",Discovery Turbo
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/462
-#EXTINF:-1 ,group-title:"knowledge",History FHD
+#EXTINF:-1 group-title:"knowledge",History FHD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/8131
-#EXTINF:-1 ,group-title:"knowledge",History HD
+#EXTINF:-1 group-title:"knowledge",History HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/718
-#EXTINF:-1 ,group-title:"knowledge",Lingua Channel
+#EXTINF:-1 group-title:"knowledge",Lingua Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/14944
-#EXTINF:-1 ,group-title:"knowledge",Love Nature 4K
+#EXTINF:-1 group-title:"knowledge",Love Nature 4K
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36767
-#EXTINF:-1 ,group-title:"knowledge",Nat Geo HD
+#EXTINF:-1 group-title:"knowledge",Nat Geo HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/96
-#EXTINF:-1 ,group-title:"knowledge",Nat Geo People HD
+#EXTINF:-1 group-title:"knowledge",Nat Geo People HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/455
-#EXTINF:-1 ,group-title:"knowledge",Nat Geo Wild HD
+#EXTINF:-1 group-title:"knowledge",Nat Geo Wild HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/97
-#EXTINF:-1 ,group-title:"knowledge",Ruang Terampil
+#EXTINF:-1 group-title:"knowledge",Ruang Terampil
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36731
-#EXTINF:-1 ,group-title:"knowledge",Smithsonian Channel
+#EXTINF:-1 group-title:"knowledge",Smithsonian Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/35998
-#EXTINF:-1 ,group-title:"knowledge",TV Edukasi
+#EXTINF:-1 group-title:"knowledge",TV Edukasi
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36732
 
-#EXTINF:-1 ,group-title:"kids",Aniplus
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="kids",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"kids",Aniplus
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/2
-#EXTINF:-1 ,group-title:"kids",Baby First
+#EXTINF:-1 group-title:"kids",Baby First
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1204
-#EXTINF:-1 ,group-title:"kids",Baby TV
+#EXTINF:-1 group-title:"kids",Baby TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/296
-#EXTINF:-1 ,group-title:"kids",Boomerang ID
+#EXTINF:-1 group-title:"kids",Boomerang ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/305
-#EXTINF:-1 ,group-title:"kids",Cartoon Network ID HD
+#EXTINF:-1 group-title:"kids",Cartoon Network ID HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/680
-#EXTINF:-1 ,group-title:"kids",CBeebies
+#EXTINF:-1 group-title:"kids",CBeebies
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/491
-#EXTINF:-1 ,group-title:"kids",Disney Channel
+#EXTINF:-1 group-title:"kids",Disney Channel
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/306
-#EXTINF:-1 ,group-title:"kids",Disney Channel ID
+#EXTINF:-1 group-title:"kids",Disney Channel ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/3479
-#EXTINF:-1 ,group-title:"kids",Disney Junior
+#EXTINF:-1 group-title:"kids",Disney Junior
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/213
-#EXTINF:-1 ,group-title:"kids",Disney UK
+#EXTINF:-1 group-title:"kids",Disney UK
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/2336
-#EXTINF:-1 ,group-title:"kids",Disney XD
+#EXTINF:-1 group-title:"kids",Disney XD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/104
-#EXTINF:-1 ,group-title:"kids",Dream Works HD
+#EXTINF:-1 group-title:"kids",Dream Works HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/32529
-#EXTINF:-1 ,group-title:"kids",Duck TV
+#EXTINF:-1 group-title:"kids",Duck TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1854
-#EXTINF:-1 ,group-title:"kids",Dunia Anak
+#EXTINF:-1 group-title:"kids",Dunia Anak
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/907
-#EXTINF:-1 ,group-title:"kids",Horee
+#EXTINF:-1 group-title:"kids",Horee
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/14106
-#EXTINF:-1 ,group-title:"kids",My Kidz
+#EXTINF:-1 group-title:"kids",My Kidz
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1483
-#EXTINF:-1 ,group-title:"kids",Nick Jr 2
+#EXTINF:-1 group-title:"kids",Nick Jr 2
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/341
-#EXTINF:-1 ,group-title:"kids",Nick Jr ID
+#EXTINF:-1 group-title:"kids",Nick Jr ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/522
-#EXTINF:-1 ,group-title:"kids",Nick Toons
+#EXTINF:-1 group-title:"kids",Nick Toons
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/335
-#EXTINF:-1 ,group-title:"kids",Nickelodeon ID
+#EXTINF:-1 group-title:"kids",Nickelodeon ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/962
-#EXTINF:-1 ,group-title:"kids",Toonmax
+#EXTINF:-1 group-title:"kids",Toonmax
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1116
-#EXTINF:-1 ,group-title:"kids",XingXong
+#EXTINF:-1 group-title:"kids",XingXong
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36764
-#EXTINF:-1 ,group-title:"kids",Zoo Moo HD
+#EXTINF:-1 group-title:"kids",Zoo Moo HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/14104
-#EXTINF:-1 ,group-title:"hiburan",AFN HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="hiburan",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
+#EXTINF:-1 group-title:"hiburan",AFN HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/807
-#EXTINF:-1 ,group-title:"hiburan",BBC Lifestyle HD
+#EXTINF:-1 group-title:"hiburan",BBC Lifestyle HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/36766
-#EXTINF:-1 ,group-title:"hiburan",Blue Ant Entertainment HD
+#EXTINF:-1 group-title:"hiburan",Blue Ant Entertainment HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1506
-#EXTINF:-1  group-title:"hiburan",Citra Drama
+#EXTINF:-1 group-title:"hiburan",Citra Drama
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/905
-#EXTINF:-1 ,group-title:"hiburan",DMAX
+#EXTINF:-1 group-title:"hiburan",DMAX
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/483
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="lifestyle",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 group-title:"lifestyle",Eat & Go
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26979
 #EXTINF:-1 group-title:"lifestyle",Every Good Game
@@ -274,6 +290,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/280
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/537
 #EXTINF:-1 group-title:"lifestyle",Insert
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1763
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="asiaTV",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 group-title:"asiaTV",NHK World Japan
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/785
 #EXTINF:-1 group-title:"asiaTV",TLC English
@@ -301,6 +319,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/927
 #EXTINF:-1 group-title:"asiaTV",Channel V HD
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/766
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="music tv",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 group-title:"music tv",Citra Dangdut
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/2207
 #EXTINF:-1 group-title:"music tv",i konser
@@ -320,6 +340,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1731
 #EXTINF:-1 group-title:"music tv",Prambors TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1157
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="religi",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 group-title:"religi",Ahsan TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/26630
 #EXTINF:-1 group-title:"religi",Al-Iman TV
@@ -335,6 +357,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/843
 #EXTINF:-1 group-title:"religi",TV Mu
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/1726
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="sport",suryaTV_081235393956
+https://drive.google.com/uc?id=1NSYsuazeJzLuFJ-JefZxnZJnUOrK2xw1
 #EXTINF:-1 group-title:"sport",BeIN Sport 1 ID
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/728
 #EXTINF:-1 group-title:"sport",BeIN Sport 2 ID
